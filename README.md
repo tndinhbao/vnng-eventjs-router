@@ -1,2 +1,2 @@
-# vnng-eventjs-router
+# vnng-eventjs-route
 Router middleware for eventjs
